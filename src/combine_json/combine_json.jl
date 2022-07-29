@@ -11,3 +11,7 @@ combined_data = string(tao_data, line_break, cfs_data)
 open("src/combine_json/combined_data.json", "w") do f
     write(f, combined_data)
 end
+
+open("data/fastener_connection_data.json", "w") do f
+    write(f, combined_data)
+end
