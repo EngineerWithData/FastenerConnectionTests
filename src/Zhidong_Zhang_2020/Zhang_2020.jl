@@ -1,7 +1,7 @@
 using CSV, DataFrames, DataStructures, JSON
 
 
-data = CSV.File(open(read, raw"src\Zhidong_Zhang_2020\cfs_fastener_test_data.csv")) |> DataFrame
+data = CSV.File(open(read, raw"src\Zhidong_Zhang_2020\Zhang_2020.csv")) |> DataFrame
 
 
 P = Array{Array{Float64, 1}, 1}(undef, 0)
@@ -23,18 +23,18 @@ data[!,:P] = P
 
 data[!,:Δ] = Δ
 
-data = select!(data, [1:2;11:21])
+data = select!(data, [1:4;13:21])
 
 
 units = Array{Array{Any, 1}, 1}(undef, 0)
 for i = 1:nrow(data)
 
-    units = vcat(units, [[[], [], "mm", "mm", "MPa", "MPa", "MPa", "MPa", "mm", [], [], "kN", "mm"]])
+    units = vcat(units, [[[], [], [], [], "mm", "mm", "MPa", "MPa", "MPa", "MPa", "mm", [], [], "kN", "mm"]])
 
 end
 
 
-insertcols!(data, 3, :units => units)
+insertcols!(data, 5, :units => units)
 
 
 
@@ -46,6 +46,6 @@ function convert_dataframe_to_json(data, json_filename)
     end
 end
 
-json_filename = raw"src\Zhidong_Zhang_2020\cfs_fastener_test_data.json"
+json_filename = raw"src\Zhidong_Zhang_2020\Zhang_2020.json"
 convert_dataframe_to_json(data, json_filename)
 

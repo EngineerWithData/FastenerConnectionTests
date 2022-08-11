@@ -2,7 +2,7 @@ using JSON3, JSON, DataFrames
 
 tao_data = read("src/Tao_et_al_2016/Tao_et_al_2016.json", String)
 
-cfs_data = read("src/Zhidong_Zhang_2020/cfs_fastener_test_data.json", String)
+cfs_data = read("src/Zhidong_Zhang_2020/Zhang_2020.json", String)
 
 line_break = """\n"""
 
