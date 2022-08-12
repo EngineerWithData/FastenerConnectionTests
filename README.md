@@ -10,7 +10,6 @@ The main data file is [fastener_connection_data.json](data/fastener_connection_d
 * author_name_1
 * author_name_2
 * web_link
-* units
 * t1
 * t2
 * fy1
@@ -22,6 +21,7 @@ The main data file is [fastener_connection_data.json](data/fastener_connection_d
 * fastener_type
 * P
 * Δ
+* units
 
 ## Add your data
 
