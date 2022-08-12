@@ -1,5 +1,6 @@
-using JSON3, JSON, DataFrames
+using JSON3, JSON, DataFrames, JSONTables
 
-revert_file = read("src\combine_json\test\combined_data.json", String)
-
-revert_file = JSON.parse(combined_data)
+filename = raw"test\combined_data.json"
+json_string = read(filename, String)
+json_source = JSON3.read(json_string)
+data = DataFrame(jsontable(json_source))

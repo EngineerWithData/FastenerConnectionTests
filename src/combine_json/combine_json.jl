@@ -1,17 +1,29 @@
-using JSON3, JSON, DataFrames
+using JSON3, JSON, DataFrames, JSONTables
 
-tao_data = read("src/Tao_et_al_2016/Tao_et_al_2016.json", String)
+filename = raw"src\Tao_et_al_2016\Tao_et_al_2016.json"
+json_string = read(filename, String)
+json_source = JSON3.read(json_string)
+tao_data = DataFrame(jsontable(json_source))
 
-cfs_data = read("src/Zhidong_Zhang_2020/Zhang_2020.json", String)
+filename = raw"src\Zhang_2020\Zhang_2020.json"
+json_string = read(filename, String)
+json_source = JSON3.read(json_string)
+zhang_data = DataFrame(jsontable(json_source))
 
-line_break = """\n"""
+combined_data = [tao_data; zhang_data]
 
-combined_data = string(tao_data, line_break, cfs_data)
-
-open("src/combine_json/combined_data.json", "w") do f
-    write(f, combined_data)
+function convert_dataframe_to_json(combined_data, json_filename)
+    all_data_json = [OrderedDict(d[1] => d[2] for d in zip(names(combined_data), combined_data[item, :]))  for item in 1:size(combined_data)[1]]
+    stringdata = JSON.json(all_data_json, 4)
+    open(json_filename, "w") do f
+       write(f, stringdata)
+    end
 end
 
-open("data/fastener_connection_data.json", "w") do f
-    write(f, combined_data)
-end
+json_filename = raw"src/combine_json/combined_data.json"
+convert_dataframe_to_json(combined_data, json_filename)
+
+json_filename = raw"data/fastener_connection_data.json"
+convert_dataframe_to_json(combined_data, json_filename)
+
+

@@ -4,23 +4,6 @@
         "author_name_1": "Tao",
         "author_name_2": "Moen",
         "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
-        "units": [
-            [],
-            [],
-            [],
-            [],
-            "mm",
-            "mm",
-            "MPa",
-            "MPa",
-            "MPa",
-            "MPa",
-            "mm",
-            [],
-            [],
-            "kN",
-            "mm"
-        ],
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -43,13 +26,7 @@
             3.35,
             11.65,
             23.95
-        ]
-    },
-    {
-        "specimen_name": "3333-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -66,7 +43,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -89,13 +72,7 @@
             4.22,
             10.69,
             22.01
-        ]
-    },
-    {
-        "specimen_name": "3333-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -112,7 +89,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -135,13 +118,7 @@
             5.42,
             16.15,
             31.6
-        ]
-    },
-    {
-        "specimen_name": "3333-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -158,7 +135,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -181,13 +164,7 @@
             4.12,
             12.23,
             16.25
-        ]
-    },
-    {
-        "specimen_name": "3333-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -204,7 +181,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -227,13 +210,7 @@
             7.95,
             15.28,
             32.51
-        ]
-    },
-    {
-        "specimen_name": "3333-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -250,7 +227,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -273,13 +256,7 @@
             6.62,
             10.52,
             16.22
-        ]
-    },
-    {
-        "specimen_name": "4333-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -296,7 +273,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -319,13 +302,7 @@
             4.23,
             4.63,
             4.78
-        ]
-    },
-    {
-        "specimen_name": "4333-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -342,7 +319,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -365,13 +348,7 @@
             1.67,
             6.09,
             8.2
-        ]
-    },
-    {
-        "specimen_name": "4333-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -388,7 +365,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -411,13 +394,7 @@
             6.62,
             9.45,
             25.78
-        ]
-    },
-    {
-        "specimen_name": "4333-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -434,7 +411,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -457,13 +440,7 @@
             7.59,
             12.05,
             13.91
-        ]
-    },
-    {
-        "specimen_name": "4333-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -480,7 +457,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -503,13 +486,7 @@
             9.98,
             15.24,
             37.32
-        ]
-    },
-    {
-        "specimen_name": "4333-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -526,7 +503,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -549,13 +532,7 @@
             3.33,
             13.73,
             25.82
-        ]
-    },
-    {
-        "specimen_name": "4343-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -572,7 +549,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -595,13 +578,7 @@
             3.14,
             4.02,
             4.92
-        ]
-    },
-    {
-        "specimen_name": "4343-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -618,7 +595,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -641,13 +624,7 @@
             2.96,
             5.4,
             5.61
-        ]
-    },
-    {
-        "specimen_name": "4343-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -664,7 +641,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -687,13 +670,7 @@
             4.08,
             17.47,
             26.95
-        ]
-    },
-    {
-        "specimen_name": "4343-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -710,7 +687,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -733,13 +716,7 @@
             5.63,
             11.24,
             14.13
-        ]
-    },
-    {
-        "specimen_name": "4343-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -756,7 +733,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -779,13 +762,7 @@
             2.91,
             11.76,
             26.79
-        ]
-    },
-    {
-        "specimen_name": "4343-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -802,7 +779,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -825,13 +808,7 @@
             2.62,
             8.16,
             16.06
-        ]
-    },
-    {
-        "specimen_name": "4354-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -848,7 +825,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -871,13 +854,7 @@
             1.76,
             2.17,
             2.54
-        ]
-    },
-    {
-        "specimen_name": "4354-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -894,7 +871,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -917,13 +900,7 @@
             1.11,
             3.51,
             3.93
-        ]
-    },
-    {
-        "specimen_name": "4354-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -940,7 +917,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -963,13 +946,7 @@
             7.64,
             12.86,
             25.69
-        ]
-    },
-    {
-        "specimen_name": "4354-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -986,7 +963,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -1009,13 +992,7 @@
             2.32,
             7.24,
             12.05
-        ]
-    },
-    {
-        "specimen_name": "4354-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1032,7 +1009,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -1055,13 +1038,7 @@
             6.82,
             12.4,
             27.1
-        ]
-    },
-    {
-        "specimen_name": "4354-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1078,7 +1055,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -1101,13 +1084,7 @@
             2.25,
             5.8,
             11.93
-        ]
-    },
-    {
-        "specimen_name": "4368-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1124,7 +1101,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -1147,13 +1130,7 @@
             1.37,
             1.74,
             1.89
-        ]
-    },
-    {
-        "specimen_name": "4368-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1170,7 +1147,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -1193,13 +1176,7 @@
             1.31,
             1.49,
             1.71
-        ]
-    },
-    {
-        "specimen_name": "4368-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1216,7 +1193,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -1239,13 +1222,7 @@
             11.56,
             13.45,
             27.29
-        ]
-    },
-    {
-        "specimen_name": "4368-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1262,7 +1239,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -1285,13 +1268,7 @@
             8.7,
             9.64,
             12.68
-        ]
-    },
-    {
-        "specimen_name": "4368-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1308,7 +1285,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -1331,13 +1314,7 @@
             2.61,
             14.44,
             26.37
-        ]
-    },
-    {
-        "specimen_name": "4368-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1354,7 +1331,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -1377,13 +1360,7 @@
             8.63,
             12.73,
             13.42
-        ]
-    },
-    {
-        "specimen_name": "4397-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1400,7 +1377,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -1423,13 +1406,7 @@
             1.85,
             2.26,
             2.52
-        ]
-    },
-    {
-        "specimen_name": "4397-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1446,7 +1423,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -1469,13 +1452,7 @@
             0.69,
             1.17,
             1.6
-        ]
-    },
-    {
-        "specimen_name": "4397-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1492,7 +1469,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -1515,13 +1498,7 @@
             7.16,
             7.91,
             8.02
-        ]
-    },
-    {
-        "specimen_name": "4397-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1538,7 +1515,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -1561,13 +1544,7 @@
             1.32,
             7.55,
             9.3
-        ]
-    },
-    {
-        "specimen_name": "4397-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1584,7 +1561,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -1607,13 +1590,7 @@
             9.59,
             29.2,
             59.41
-        ]
-    },
-    {
-        "specimen_name": "4397-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1630,7 +1607,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -1653,13 +1636,7 @@
             11.56,
             32.48,
             51.64
-        ]
-    },
-    {
-        "specimen_name": "5433-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1676,7 +1653,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -1699,13 +1682,7 @@
             5.63,
             6.18,
             6.82
-        ]
-    },
-    {
-        "specimen_name": "5433-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1722,7 +1699,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -1745,13 +1728,7 @@
             4.95,
             5.4,
             5.5
-        ]
-    },
-    {
-        "specimen_name": "5433-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1768,7 +1745,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -1791,13 +1774,7 @@
             5.85,
             10.27,
             30.06
-        ]
-    },
-    {
-        "specimen_name": "5433-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1814,7 +1791,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -1837,13 +1820,7 @@
             6.27,
             17.6,
             22.74
-        ]
-    },
-    {
-        "specimen_name": "5433-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1860,7 +1837,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -1883,13 +1866,7 @@
             6.4,
             9.31,
             38.6
-        ]
-    },
-    {
-        "specimen_name": "5433-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1906,7 +1883,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -1929,13 +1912,7 @@
             11.12,
             22.68,
             31.7
-        ]
-    },
-    {
-        "specimen_name": "6833-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1952,7 +1929,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -1975,13 +1958,7 @@
             4.0,
             4.62,
             5.19
-        ]
-    },
-    {
-        "specimen_name": "6833-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -1998,7 +1975,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -2021,13 +2004,7 @@
             5.51,
             6.17,
             9.29
-        ]
-    },
-    {
-        "specimen_name": "6833-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2044,7 +2021,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -2067,13 +2050,7 @@
             5.17,
             9.45,
             23.14
-        ]
-    },
-    {
-        "specimen_name": "6833-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2090,7 +2067,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -2113,13 +2096,7 @@
             5.67,
             9.12,
             15.04
-        ]
-    },
-    {
-        "specimen_name": "6833-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2136,7 +2113,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -2159,13 +2142,7 @@
             5.0,
             15.72,
             28.54
-        ]
-    },
-    {
-        "specimen_name": "6833-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2182,7 +2159,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -2205,13 +2188,7 @@
             6.59,
             18.4,
             20.46
-        ]
-    },
-    {
-        "specimen_name": "9733-8-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2228,7 +2205,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-8-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -2251,13 +2234,7 @@
             0.51,
             0.99,
             2.28
-        ]
-    },
-    {
-        "specimen_name": "9733-8-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2274,7 +2251,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-8-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -2297,13 +2280,7 @@
             3.04,
             3.09,
             3.25
-        ]
-    },
-    {
-        "specimen_name": "9733-10-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2320,7 +2297,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-10-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -2343,13 +2326,7 @@
             3.44,
             10.73,
             24.17
-        ]
-    },
-    {
-        "specimen_name": "9733-10-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2366,7 +2343,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-10-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -2389,13 +2372,7 @@
             6.41,
             11.94,
             13.22
-        ]
-    },
-    {
-        "specimen_name": "9733-12-M1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2412,7 +2389,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-12-M1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -2435,13 +2418,7 @@
             2.74,
             12.61,
             30.42
-        ]
-    },
-    {
-        "specimen_name": "9733-12-C1",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2458,7 +2435,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-12-C1",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -2481,13 +2464,7 @@
             3.02,
             15.88,
             23.61
-        ]
-    },
-    {
-        "specimen_name": "3333-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2504,7 +2481,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -2527,13 +2510,7 @@
             4.78,
             10.83,
             19.38
-        ]
-    },
-    {
-        "specimen_name": "3333-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2550,7 +2527,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -2573,13 +2556,7 @@
             4.6,
             10.84,
             23.49
-        ]
-    },
-    {
-        "specimen_name": "3333-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2596,7 +2573,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -2619,13 +2602,7 @@
             7.65,
             14.59,
             28.81
-        ]
-    },
-    {
-        "specimen_name": "3333-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2642,7 +2619,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -2665,13 +2648,7 @@
             6.83,
             9.02,
             17.26
-        ]
-    },
-    {
-        "specimen_name": "3333-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2688,7 +2665,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -2711,13 +2694,7 @@
             8.56,
             13.41,
             29.75
-        ]
-    },
-    {
-        "specimen_name": "3333-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2734,7 +2711,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -2757,13 +2740,7 @@
             6.31,
             10.48,
             21.27
-        ]
-    },
-    {
-        "specimen_name": "4333-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2780,7 +2757,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -2803,13 +2786,7 @@
             4.76,
             5.85,
             6.4
-        ]
-    },
-    {
-        "specimen_name": "4333-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2826,7 +2803,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -2849,13 +2832,7 @@
             4.93,
             5.09,
             5.5
-        ]
-    },
-    {
-        "specimen_name": "4333-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2872,7 +2849,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -2895,13 +2878,7 @@
             6.32,
             10.11,
             24.85
-        ]
-    },
-    {
-        "specimen_name": "4333-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2918,7 +2895,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -2941,13 +2924,7 @@
             5.46,
             9.37,
             11.01
-        ]
-    },
-    {
-        "specimen_name": "4333-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -2964,7 +2941,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -2987,13 +2970,7 @@
             7.41,
             11.44,
             42.32
-        ]
-    },
-    {
-        "specimen_name": "4333-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3010,7 +2987,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -3033,13 +3016,7 @@
             4.47,
             11.14,
             24.48
-        ]
-    },
-    {
-        "specimen_name": "4343-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3056,7 +3033,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -3079,13 +3062,7 @@
             3.11,
             4.44,
             5.11
-        ]
-    },
-    {
-        "specimen_name": "4343-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3102,7 +3079,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -3125,13 +3108,7 @@
             5.29,
             7.32,
             8.35
-        ]
-    },
-    {
-        "specimen_name": "4343-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3148,7 +3125,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -3171,13 +3154,7 @@
             4.68,
             10.25,
             28.18
-        ]
-    },
-    {
-        "specimen_name": "4343-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3194,7 +3171,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -3217,13 +3200,7 @@
             5.25,
             7.61,
             11.53
-        ]
-    },
-    {
-        "specimen_name": "4343-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3240,7 +3217,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -3263,13 +3246,7 @@
             3.57,
             13.61,
             26.54
-        ]
-    },
-    {
-        "specimen_name": "4343-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3286,7 +3263,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -3309,13 +3292,7 @@
             1.5,
             10.01,
             15.29
-        ]
-    },
-    {
-        "specimen_name": "4354-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3332,7 +3309,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -3355,13 +3338,7 @@
             6.58,
             8.9,
             26.62
-        ]
-    },
-    {
-        "specimen_name": "4354-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3378,7 +3355,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -3401,13 +3384,7 @@
             2.25,
             4.39,
             5.04
-        ]
-    },
-    {
-        "specimen_name": "4354-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3424,7 +3401,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -3447,13 +3430,7 @@
             6.95,
             13.25,
             22.53
-        ]
-    },
-    {
-        "specimen_name": "4354-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3470,7 +3447,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -3493,13 +3476,7 @@
             2.1,
             7.8,
             14.08
-        ]
-    },
-    {
-        "specimen_name": "4354-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3516,7 +3493,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -3539,13 +3522,7 @@
             3.1,
             15.14,
             23.69
-        ]
-    },
-    {
-        "specimen_name": "4354-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3562,7 +3539,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -3585,13 +3568,7 @@
             2.53,
             7.54,
             8.94
-        ]
-    },
-    {
-        "specimen_name": "4368-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3608,7 +3585,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -3631,13 +3614,7 @@
             1.58,
             2.26,
             2.41
-        ]
-    },
-    {
-        "specimen_name": "4368-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3654,7 +3631,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -3677,13 +3660,7 @@
             1.15,
             1.62,
             1.96
-        ]
-    },
-    {
-        "specimen_name": "4368-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3700,7 +3677,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -3723,13 +3706,7 @@
             11.4,
             13.4,
             25.14
-        ]
-    },
-    {
-        "specimen_name": "4368-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3746,7 +3723,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -3769,13 +3752,7 @@
             6.6,
             9.79,
             13.92
-        ]
-    },
-    {
-        "specimen_name": "4368-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3792,7 +3769,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -3815,13 +3798,7 @@
             3.06,
             14.75,
             26.03
-        ]
-    },
-    {
-        "specimen_name": "4368-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3838,7 +3815,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -3861,13 +3844,7 @@
             6.51,
             13.0,
             14.03
-        ]
-    },
-    {
-        "specimen_name": "4397-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3884,7 +3861,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -3907,13 +3890,7 @@
             0.9,
             1.48,
             1.86
-        ]
-    },
-    {
-        "specimen_name": "4397-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3930,7 +3907,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -3953,13 +3936,7 @@
             0.66,
             0.83,
             1.16
-        ]
-    },
-    {
-        "specimen_name": "4397-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -3976,7 +3953,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -3999,13 +3982,7 @@
             8.82,
             9.1,
             9.76
-        ]
-    },
-    {
-        "specimen_name": "4397-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4022,7 +3999,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -4045,13 +4028,7 @@
             1.16,
             7.05,
             7.43
-        ]
-    },
-    {
-        "specimen_name": "4397-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4068,7 +4045,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -4091,13 +4074,7 @@
             10.23,
             23.77,
             61.41
-        ]
-    },
-    {
-        "specimen_name": "4397-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4114,7 +4091,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -4137,13 +4120,7 @@
             11.83,
             18.07,
             32.49
-        ]
-    },
-    {
-        "specimen_name": "5433-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4160,7 +4137,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -4183,13 +4166,7 @@
             5.15,
             5.43,
             5.76
-        ]
-    },
-    {
-        "specimen_name": "5433-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4206,7 +4183,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -4229,13 +4212,7 @@
             6.19,
             6.55,
             7.32
-        ]
-    },
-    {
-        "specimen_name": "5433-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4252,7 +4229,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -4275,13 +4258,7 @@
             4.66,
             7.82,
             24.48
-        ]
-    },
-    {
-        "specimen_name": "5433-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4298,7 +4275,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -4321,13 +4304,7 @@
             4.84,
             12.61,
             14.88
-        ]
-    },
-    {
-        "specimen_name": "5433-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4344,7 +4321,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -4367,13 +4350,7 @@
             8.83,
             16.86,
             32.78
-        ]
-    },
-    {
-        "specimen_name": "5433-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4390,7 +4367,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -4413,13 +4396,7 @@
             12.11,
             15.13,
             49.52
-        ]
-    },
-    {
-        "specimen_name": "6833-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4436,7 +4413,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -4459,13 +4442,7 @@
             3.83,
             4.63,
             5.28
-        ]
-    },
-    {
-        "specimen_name": "6833-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4482,7 +4459,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -4505,13 +4488,7 @@
             6.89,
             14.75,
             15.71
-        ]
-    },
-    {
-        "specimen_name": "6833-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4528,7 +4505,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -4551,13 +4534,7 @@
             4.12,
             7.07,
             16.52
-        ]
-    },
-    {
-        "specimen_name": "6833-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4574,7 +4551,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -4597,13 +4580,7 @@
             3.21,
             8.78,
             14.35
-        ]
-    },
-    {
-        "specimen_name": "6833-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4620,7 +4597,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -4643,13 +4626,7 @@
             4.95,
             14.97,
             37.15
-        ]
-    },
-    {
-        "specimen_name": "6833-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4666,7 +4643,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -4689,13 +4672,7 @@
             8.18,
             18.88,
             23.98
-        ]
-    },
-    {
-        "specimen_name": "9733-8-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4712,7 +4689,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-8-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -4735,13 +4718,7 @@
             0.73,
             1.29,
             2.05
-        ]
-    },
-    {
-        "specimen_name": "9733-8-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4758,7 +4735,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-8-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -4781,13 +4764,7 @@
             2.11,
             3.11,
             3.18
-        ]
-    },
-    {
-        "specimen_name": "9733-10-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4804,7 +4781,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-10-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -4827,13 +4810,7 @@
             7.28,
             11.95,
             22.04
-        ]
-    },
-    {
-        "specimen_name": "9733-10-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4850,7 +4827,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-10-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -4873,13 +4856,7 @@
             6.29,
             12.99,
             13.84
-        ]
-    },
-    {
-        "specimen_name": "9733-12-M2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4896,7 +4873,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-12-M2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -4919,13 +4902,7 @@
             2.85,
             14.58,
             39.87
-        ]
-    },
-    {
-        "specimen_name": "9733-12-C2",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4942,7 +4919,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-12-C2",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -4965,13 +4948,7 @@
             3.41,
             18.94,
             24.81
-        ]
-    },
-    {
-        "specimen_name": "3333-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -4988,7 +4965,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -5011,13 +4994,7 @@
             3.89,
             14.01,
             26.42
-        ]
-    },
-    {
-        "specimen_name": "3333-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5034,7 +5011,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -5057,13 +5040,7 @@
             5.43,
             9.56,
             25.65
-        ]
-    },
-    {
-        "specimen_name": "3333-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5080,7 +5057,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -5103,13 +5086,7 @@
             5.93,
             15.04,
             31.19
-        ]
-    },
-    {
-        "specimen_name": "3333-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5126,7 +5103,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -5149,13 +5132,7 @@
             5.89,
             15.15,
             25.96
-        ]
-    },
-    {
-        "specimen_name": "3333-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5172,7 +5149,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -5195,13 +5178,7 @@
             8.7,
             14.41,
             27.98
-        ]
-    },
-    {
-        "specimen_name": "3333-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5218,7 +5195,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "3333-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 0.9,
         "t2": 0.9,
         "fy1": 325,
@@ -5241,13 +5224,7 @@
             2.63,
             10.35,
             12.46
-        ]
-    },
-    {
-        "specimen_name": "4333-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5264,7 +5241,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -5287,13 +5270,7 @@
             4.18,
             4.65,
             4.85
-        ]
-    },
-    {
-        "specimen_name": "4333-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5310,7 +5287,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -5333,13 +5316,7 @@
             5.87,
             6.35,
             6.91
-        ]
-    },
-    {
-        "specimen_name": "4333-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5356,7 +5333,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -5379,13 +5362,7 @@
             7.59,
             10.24,
             13.23
-        ]
-    },
-    {
-        "specimen_name": "4333-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5402,7 +5379,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -5425,13 +5408,7 @@
             5.64,
             11.93,
             13.5
-        ]
-    },
-    {
-        "specimen_name": "4333-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5448,7 +5425,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -5471,13 +5454,7 @@
             10.37,
             15.58,
             24.21
-        ]
-    },
-    {
-        "specimen_name": "4333-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5494,7 +5471,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4333-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 0.9,
         "fy1": 590,
@@ -5517,13 +5500,7 @@
             9.93,
             16.97,
             24.5
-        ]
-    },
-    {
-        "specimen_name": "4343-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5540,7 +5517,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -5563,13 +5546,7 @@
             2.62,
             3.12,
             3.41
-        ]
-    },
-    {
-        "specimen_name": "4343-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5586,7 +5563,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -5609,13 +5592,7 @@
             1.98,
             4.27,
             5.88
-        ]
-    },
-    {
-        "specimen_name": "4343-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5632,7 +5609,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -5655,13 +5638,7 @@
             6.16,
             14.57,
             23.65
-        ]
-    },
-    {
-        "specimen_name": "4343-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5678,7 +5655,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -5701,13 +5684,7 @@
             2.7,
             9.39,
             15.97
-        ]
-    },
-    {
-        "specimen_name": "4343-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5724,7 +5701,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -5747,13 +5730,7 @@
             4.61,
             14.23,
             24.15
-        ]
-    },
-    {
-        "specimen_name": "4343-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5770,7 +5747,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4343-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.11,
         "fy1": 590,
@@ -5793,13 +5776,7 @@
             2.53,
             15.04,
             22.39
-        ]
-    },
-    {
-        "specimen_name": "4354-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5816,7 +5793,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -5839,13 +5822,7 @@
             2.96,
             3.66,
             3.74
-        ]
-    },
-    {
-        "specimen_name": "4354-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5862,7 +5839,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -5885,13 +5868,7 @@
             1.19,
             1.52,
             1.67
-        ]
-    },
-    {
-        "specimen_name": "4354-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5908,7 +5885,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -5931,13 +5914,7 @@
             6.2,
             14.29,
             24.28
-        ]
-    },
-    {
-        "specimen_name": "4354-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -5954,7 +5931,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -5977,13 +5960,7 @@
             2.49,
             7.46,
             13.82
-        ]
-    },
-    {
-        "specimen_name": "4354-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6000,7 +5977,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -6023,13 +6006,7 @@
             3.25,
             11.2,
             22.48
-        ]
-    },
-    {
-        "specimen_name": "4354-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6046,7 +6023,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4354-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.43,
         "fy1": 590,
@@ -6069,13 +6052,7 @@
             2.21,
             6.87,
             9.32
-        ]
-    },
-    {
-        "specimen_name": "4368-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6092,7 +6069,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -6115,13 +6098,7 @@
             0.97,
             1.27,
             1.37
-        ]
-    },
-    {
-        "specimen_name": "4368-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6138,7 +6115,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -6161,13 +6144,7 @@
             1.64,
             1.91,
             2.18
-        ]
-    },
-    {
-        "specimen_name": "4368-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6184,7 +6161,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -6207,13 +6190,7 @@
             11.21,
             16.59,
             25.09
-        ]
-    },
-    {
-        "specimen_name": "4368-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6230,7 +6207,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -6253,13 +6236,7 @@
             6.93,
             11.75,
             19.59
-        ]
-    },
-    {
-        "specimen_name": "4368-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6276,7 +6253,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -6299,13 +6282,7 @@
             3.03,
             14.43,
             32.34
-        ]
-    },
-    {
-        "specimen_name": "4368-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6322,7 +6299,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4368-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 1.8,
         "fy1": 590,
@@ -6345,13 +6328,7 @@
             8.93,
             12.96,
             14.29
-        ]
-    },
-    {
-        "specimen_name": "4397-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6368,7 +6345,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -6391,13 +6374,7 @@
             0.79,
             1.12,
             1.25
-        ]
-    },
-    {
-        "specimen_name": "4397-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6414,7 +6391,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -6437,13 +6420,7 @@
             0.87,
             1.13,
             1.32
-        ]
-    },
-    {
-        "specimen_name": "4397-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6460,7 +6437,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -6483,13 +6466,7 @@
             9.49,
             14.33,
             14.97
-        ]
-    },
-    {
-        "specimen_name": "4397-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6506,7 +6483,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -6529,13 +6512,7 @@
             1.77,
             10.18,
             13.53
-        ]
-    },
-    {
-        "specimen_name": "4397-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6552,7 +6529,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -6575,13 +6558,7 @@
             8.78,
             27.98,
             43.05
-        ]
-    },
-    {
-        "specimen_name": "4397-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6598,7 +6575,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "4397-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.11,
         "t2": 2.56,
         "fy1": 590,
@@ -6621,13 +6604,7 @@
             13.69,
             28.25,
             50.83
-        ]
-    },
-    {
-        "specimen_name": "5433-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6644,7 +6621,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -6667,13 +6650,7 @@
             5.84,
             6.12,
             6.6
-        ]
-    },
-    {
-        "specimen_name": "5433-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6690,7 +6667,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -6713,13 +6696,7 @@
             3.68,
             7.82,
             8.16
-        ]
-    },
-    {
-        "specimen_name": "5433-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6736,7 +6713,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -6759,13 +6742,7 @@
             5.0,
             6.91,
             21.01
-        ]
-    },
-    {
-        "specimen_name": "5433-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6782,7 +6759,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -6805,13 +6788,7 @@
             6.12,
             9.76,
             21.31
-        ]
-    },
-    {
-        "specimen_name": "5433-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6828,7 +6805,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -6851,13 +6834,7 @@
             9.79,
             13.26,
             35.05
-        ]
-    },
-    {
-        "specimen_name": "5433-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6874,7 +6851,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "5433-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.43,
         "t2": 0.9,
         "fy1": 393,
@@ -6897,13 +6880,7 @@
             10.9,
             18.51,
             32.3
-        ]
-    },
-    {
-        "specimen_name": "6833-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6920,7 +6897,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -6943,13 +6926,7 @@
             4.92,
             8.57,
             17.65
-        ]
-    },
-    {
-        "specimen_name": "6833-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -6966,7 +6943,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -6989,13 +6972,7 @@
             4.51,
             4.52,
             4.6
-        ]
-    },
-    {
-        "specimen_name": "6833-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7012,7 +6989,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -7035,13 +7018,7 @@
             5.62,
             9.77,
             25.98
-        ]
-    },
-    {
-        "specimen_name": "6833-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7058,7 +7035,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -7081,13 +7064,7 @@
             3.92,
             11.67,
             16.33
-        ]
-    },
-    {
-        "specimen_name": "6833-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7104,7 +7081,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -7127,13 +7110,7 @@
             7.48,
             17.9,
             40.1
-        ]
-    },
-    {
-        "specimen_name": "6833-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7150,7 +7127,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "6833-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 1.8,
         "t2": 0.9,
         "fy1": 390,
@@ -7173,13 +7156,7 @@
             4.21,
             17.58,
             29.0
-        ]
-    },
-    {
-        "specimen_name": "9733-8-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7196,7 +7173,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-8-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -7219,13 +7202,7 @@
             4.46,
             5.28,
             5.87
-        ]
-    },
-    {
-        "specimen_name": "9733-8-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7242,7 +7219,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-8-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -7265,13 +7248,7 @@
             4.19,
             4.2,
             4.47
-        ]
-    },
-    {
-        "specimen_name": "9733-10-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7288,7 +7265,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-10-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -7311,13 +7294,7 @@
             4.55,
             8.5,
             18.24
-        ]
-    },
-    {
-        "specimen_name": "9733-10-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7334,7 +7311,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-10-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -7357,13 +7340,7 @@
             6.0,
             9.48,
             16.24
-        ]
-    },
-    {
-        "specimen_name": "9733-12-M3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7380,7 +7357,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-12-M3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -7403,13 +7386,7 @@
             3.04,
             13.94,
             34.77
-        ]
-    },
-    {
-        "specimen_name": "9733-12-C3",
-        "author_name_1": "Tao",
-        "author_name_2": "Moen",
-        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
+        ],
         "units": [
             [],
             [],
@@ -7426,7 +7403,13 @@
             [],
             "kN",
             "mm"
-        ],
+        ]
+    },
+    {
+        "specimen_name": "9733-12-C3",
+        "author_name_1": "Tao",
+        "author_name_2": "Moen",
+        "web_link": "https://buildusingsteel.org/wp-content/uploads/2020/12/CFSD-Report-RP17-2.pdf",
         "t1": 2.56,
         "t2": 0.9,
         "fy1": 379,
@@ -7449,6 +7432,23 @@
             2.7,
             21.83,
             24.04
+        ],
+        "units": [
+            [],
+            [],
+            [],
+            [],
+            "mm",
+            "mm",
+            "MPa",
+            "MPa",
+            "MPa",
+            "MPa",
+            "mm",
+            [],
+            [],
+            "kN",
+            "mm"
         ]
     }
 ]
