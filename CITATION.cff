@@ -1,6 +1,10 @@
 cff-version: 0.1.0
-message: "If you use this database, please cite it as below."
-title: "FastenerConnectionData"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+title: FastenerConnectionData
+type: dataset
 version: 0.1.0
 date-released: 2022-8-1
 url: "https://github.com/runtosolve/FastenerConnectionData.git"
+
