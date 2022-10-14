@@ -7,39 +7,39 @@ For every test specimen, there is a JSON file with the following data structure:
 ```julia
 
 struct Source
-        authors::Array{String}
-        date::Date
-        title::String
-        bibtex::String
-        units::Array{String}
-    end
-    
-    struct Fastener
-        type::Vector{String}
-        details::Vector{Dict}
-    end
-    
-    struct Ply
-        type::Vector{String}
-        thickness::Array{Float64}
-        elastic_modulus::Array{Float64}
-        yield_stress::Array{Float64}
-        ultimate_stress::Array{Float64}
-    end
-    
-    struct Test
-        name::String
-        loading::String
-        force::Array{Float64}
-        displacement::Array{Float64}
-    end
+    authors::Array{String}
+    date::Date
+    title::String
+    bibtex::String
+    units::Array{String}
+end
 
-    struct Specimen
-        source::Source
-        fastener::Fastener
-        ply::Ply
-        test::Test
-    end
+struct Fastener
+    type::Vector{String}
+    details::Vector{Dict}
+end
+
+struct Ply
+    type::Vector{String}
+    thickness::Array{Float64}
+    elastic_modulus::Array{Float64}
+    yield_stress::Array{Float64}
+    ultimate_stress::Array{Float64}
+end
+
+struct Test
+    name::String
+    loading::String
+    force::Array{Float64}
+    displacement::Array{Float64}
+end
+
+struct Specimen
+    source::Source
+    fastener::Fastener
+    ply::Ply
+    test::Test
+end
 
 ```
 
