@@ -2,72 +2,63 @@
 
 This repository contains fastener test data for cold-formed steel connections.
 
-The main data file is [fastener_connection_data.json](data/fastener_connection_data.json).
-
-## Data structure
-
-* specimen_name
-* author_name_1
-* author_name_2
-* web_link
-* t1
-* t2
-* fy1
-* fy2
-* fu1
-* fu2
-* fastener_diameter
-* fastener_label
-* fastener_type
-* P
-* Δ
-* units
-
-## Add your data
-
-Open an [issue](https://github.com/runtosolve/FastenerConnectionData/issues) and we will work with you to add your data.
-
-## Data usage
-
-Import the data into a DataFrame so that you can use it.
-
-### **Julia**
+For every test specimen, there is a JSON file with the following data structure:
 
 ```julia
-# turn a json string source into a DataFrame
 
-filename = the path of json file you download from Github
-using DataFrames, JSON3, JSONTables
-json_string = read(filename, String)
-json_source = JSON3.read(json_string)
-df = DataFrame(jsontable(json_source))
+struct Source
+        authors::Array{String}
+        date::Date
+        title::String
+        bibtex::String
+        units::Array{String}
+    end
+    
+    struct Fastener
+        type::Vector{String}
+        details::Vector{Dict}
+    end
+    
+    struct Ply
+        type::Vector{String}
+        thickness::Array{Float64}
+        elastic_modulus::Array{Float64}
+        yield_stress::Array{Float64}
+        ultimate_stress::Array{Float64}
+    end
+    
+    struct Test
+        name::String
+        loading::String
+        force::Array{Float64}
+        displacement::Array{Float64}
+    end
 
-# json source can be array of objects, or object of arrays
-# write out a DataFrame as an array of objects
-arraytable(df)
+    struct Specimen
+        source::Source
+        fastener::Fastener
+        ply::Ply
+        test::Test
+    end
 
-# write out a DataFrame as an object of arrays
-objecttable(df)
 ```
 
-### **Python**
+## Add data
 
-```python
-import pandas as pd
-# First parameter can be in three formats: A JSON String, A path to the JSON file, The JSON file's name
+Feel free to open an [issue](https://github.com/runtosolve/FastenerConnectionData/issues) and we will work with you to add your data!
 
-# Second parameter (orient): Specify the orientation of the JSON string
+## Data sources
 
-df = pd.read_json('string/path/file_name', orient) 
-print(df)
-```
-### **Matlab**
+Test results from **bold** references below are available now.   Results from other references are coming soon.
 
-``` matlab
-filename = the path of json file you download from Github;
-fid = fopen(filename);
-raw = fread(fid,inf);
-string = char(raw');
-fclose(fid);
-df = jsondecode(string);
-```
+* Derveni, Fani, et al. (2021). High-fidelity finite element modeling of wood-sheathed cold-formed steel shear walls. Journal of Structural Engineering 147.2.
+* Peterman, K. D., N. Nakata, and B. W. Schafer (2014). Hysteretic characterization of cold-formed steel stud-to-sheathing connections. Journal of Constructional Steel Research 101: 254-264.
+* **[Tao, F., Cole, R., Moen, C.D. (2016). Monotonic and cyclic response of single shear cold-formed steel-to-steel and steel-to sheathed connections. Virginia Tech Research Report No. CE/VPI-ST-16/01, American Iron and Steel Institute, Final Report, Washington, D.C.](https://www.researchgate.net/profile/Aritra-Chatterjee-3/publication/333671326_Monotonic_and_Cyclic_Response_of_Single_Shear_Cold-Formed_Steel-to-Steel_and_Sheathing-to-Steel_Connections/links/5cfd974ea6fdccd1308f7ec4/Monotonic-and-Cyclic-Response-of-Single-Shear-Cold-Formed-Steel-to-Steel-and-Sheathing-to-Steel-Connections.pdf)**
+* Torabian, S., and B. W. Schafer (2021). Cyclic experiments on sidelap and structural connectors in steel deck diaphragms. Journal of Structural Engineering 147.4.
+* Zhang, Z. , Singh, A., Derveni, F., Torabian, S., Peterman, K. D., Hutchinson, T. C., Schafer, B. W. (2021). Cyclic Experiments on Isolated Steel Sheet Connections for CFS Framed Steel Sheet Sheathed Shear Walls with New Configurations. Engineering Structures, 244, p.112805.
+* Zhang, Z., Singh, A., Derveni, F., Torabian, S., Peterman, K. D., Hutchinson, T. C., & Schafer, B. W. (2022). Cyclic Experiments on Steel Sheet Connections for Standard CFS Framed Steel Sheet Sheathed Shear Walls. Journal of Structural Engineering, 148(2), 04021261"
+
+
+
+
+
