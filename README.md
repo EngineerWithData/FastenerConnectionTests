@@ -12,6 +12,7 @@ struct Source
     title::String
     bibtex::String
     units::Array{String}
+    nominal_data::Vector{String}
 end
 
 struct Fastener
@@ -55,8 +56,8 @@ Test results from **bold** references below are available now.   Results from ot
 * Peterman, K. D., N. Nakata, and B. W. Schafer (2014). Hysteretic characterization of cold-formed steel stud-to-sheathing connections. Journal of Constructional Steel Research 101: 254-264.
 * **[Tao, F., Cole, R., Moen, C.D. (2016). Monotonic and cyclic response of single shear cold-formed steel-to-steel and steel-to sheathed connections. Virginia Tech Research Report No. CE/VPI-ST-16/01, American Iron and Steel Institute, Final Report, Washington, D.C.](https://www.researchgate.net/profile/Aritra-Chatterjee-3/publication/333671326_Monotonic_and_Cyclic_Response_of_Single_Shear_Cold-Formed_Steel-to-Steel_and_Sheathing-to-Steel_Connections/links/5cfd974ea6fdccd1308f7ec4/Monotonic-and-Cyclic-Response-of-Single-Shear-Cold-Formed-Steel-to-Steel-and-Sheathing-to-Steel-Connections.pdf)**
 * Torabian, S., and B. W. Schafer (2021). Cyclic experiments on sidelap and structural connectors in steel deck diaphragms. Journal of Structural Engineering 147.4.
-* Zhang, Z. , Singh, A., Derveni, F., Torabian, S., Peterman, K. D., Hutchinson, T. C., Schafer, B. W. (2021). Cyclic Experiments on Isolated Steel Sheet Connections for CFS Framed Steel Sheet Sheathed Shear Walls with New Configurations. Engineering Structures, 244, p.112805.
-* Zhang, Z., Singh, A., Derveni, F., Torabian, S., Peterman, K. D., Hutchinson, T. C., & Schafer, B. W. (2022). Cyclic Experiments on Steel Sheet Connections for Standard CFS Framed Steel Sheet Sheathed Shear Walls. Journal of Structural Engineering, 148(2), 04021261"
+* **[Zhang, Z., Schafer, B. W. (2020). Test Report: Cyclic Performance of Steel Sheet Connections for CFS Steel Sheet Shear Walls. Research Report No. CFSRC R-2020-06, COLD-FORMED STEEL RESEARCH CONSORTIUM.](https://jscholarship.library.jhu.edu/handle/1774.2/62850)**
+
 
 
 
