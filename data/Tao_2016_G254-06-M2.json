@@ -10,6 +10,9 @@
         "units": [
             "mm",
             "N"
+        ],
+        "nominal_data": [
+            "elastic modulus"
         ]
     },
     "fastener": {
