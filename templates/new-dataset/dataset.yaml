@@ -1,0 +1,17 @@
+id: firstauthor-year          # must match the folder name
+title: ""
+authors:
+  - name: ""
+    affiliation: ""
+year: 2026
+citation: >-
+  Author (Year). Title. Publisher or journal. DOI or URL
+source_url: ""
+license: CC-BY-4.0           # or whatever the contributors choose
+contact: ""
+original_units: {length: in, force: lbf, stress: ksi}
+original_format: ""
+# external_files:            # for anything too large for git
+#   - url: https://zenodo.org/records/...
+#     sha256: ...
+#     description: raw load cell and LVDT records

@@ -1,0 +1,25 @@
+id: tao-2016
+title: Monotonic and cyclic tests of single-shear screw-fastened steel-to-steel and sheathing-to-steel connections
+authors:
+  - name: F. Tao
+    affiliation: Virginia Tech
+  - name: A. Chatterjee
+    affiliation: Virginia Tech
+  - name: R. Cole
+    affiliation: Virginia Tech
+  - name: C.D. Moen
+    affiliation: Virginia Tech
+    orcid: https://orcid.org/0000-0001-6589-7419
+year: 2016
+citation: >-
+  Tao, F., Chatterjee, A., Cole, R., Moen, C.D. (2016). Monotonic and Cyclic Response of
+  Single Shear Cold-Formed Steel-to-Steel and Sheathing-to-Steel Connections. Virginia Tech
+  Research Report No. CE/VPI-ST-16/01, American Iron and Steel Institute, Washington, D.C.
+source_url: https://www.researchgate.net/publication/333671326
+license: CC-BY-4.0
+contact: https://github.com/EngineerWithData
+original_units: {length: mm, force: N, stress: MPa}
+original_format: JSON, one file per specimen (this repository's v0 format)
+specimens:
+  steel_to_steel: 222
+  sheathing_to_steel: 186   # 78 OSB, 78 plywood, 30 gypsum

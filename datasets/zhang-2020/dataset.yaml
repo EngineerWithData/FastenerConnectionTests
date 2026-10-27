@@ -1,0 +1,31 @@
+id: zhang-2020
+title: Monotonic and cyclic tests of steel sheet connections for CFS-framed steel sheet sheathed shear walls
+authors:
+  - name: Z. Zhang
+    affiliation: Johns Hopkins University
+  - name: B.W. Schafer
+    affiliation: Johns Hopkins University
+year: 2020
+citation: >-
+  Zhang, Z., Schafer, B.W. (2020). Test Report: Cyclic Performance of Steel Sheet
+  Connections for CFS Steel Sheet Shear Walls. Research Report No. CFSRC R-2020-06,
+  Cold-Formed Steel Research Consortium.
+related:
+  - >-
+    Zhang, Z., Singh, A., Derveni, F., Torabian, S., Peterman, K.D., Hutchinson, T.C.,
+    Schafer, B.W. (2022). Cyclic experiments on steel sheet connections for standard CFS
+    framed steel sheet sheathed shear walls. Journal of Structural Engineering 148(2),
+    04021261. https://doi.org/10.1061/(ASCE)ST.1943-541X.0003233
+  - >-
+    Zhang, Z., Singh, A., Derveni, F., Torabian, S., Peterman, K.D., Hutchinson, T.C.,
+    Schafer, B.W. (2021). Cyclic experiments on isolated steel sheet connections for CFS
+    framed steel sheet sheathed shear walls with new configurations. Engineering
+    Structures 244, 112805. https://www.sciencedirect.com/science/article/abs/pii/S014102962100955X
+source_url: https://doi.org/10.1061/(ASCE)ST.1943-541X.0003233
+license: To be confirmed with the authors
+contact: B.W. Schafer, Johns Hopkins University
+original_units: {length: mm, force: N, stress: MPa}
+original_format: JSON, one file per specimen (this repository's v0 format)
+specimens:
+  screw: 128
+  paf: 28

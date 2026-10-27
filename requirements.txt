@@ -1,0 +1,5 @@
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+pyyaml>=6
+scipy>=1.11

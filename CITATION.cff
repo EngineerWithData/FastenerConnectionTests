@@ -1,11 +1,54 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
-authors:
-- family-names: "Moen"
-  given-names: "Cristopher D."
-  orcid: "https://orcid.org/0000-0001-6589-7419"
-title: "FastenerConnectionData"
+message: >-
+  If you use this database, cite the original source of each dataset you use
+  (see datasets/<id>/dataset.yaml). You may also cite the database itself.
+title: Fastener Connection Test Database
 type: dataset
-version: 0.1.0
-date-released: 2022-10-01
-url: "https://github.com/runtosolve/FastenerConnectionData.git"
+authors:
+  - name: EngineerWithData
+  - family-names: Moen
+    given-names: Cristopher D.
+    orcid: https://orcid.org/0000-0001-6589-7419
+repository-code: https://github.com/EngineerWithData/FastenerConnectionTests
+version: 1.0.0
+references:
+  - type: article
+    title: Hysteretic characterization of cold-formed steel stud-to-sheathing connections
+    authors:
+      - family-names: Peterman
+        given-names: K.D.
+      - family-names: Nakata
+        given-names: N.
+      - family-names: Schafer
+        given-names: B.W.
+    journal: Journal of Constructional Steel Research
+    volume: 101
+    start: 254
+    end: 264
+    year: 2014
+  - type: report
+    title: Monotonic and Cyclic Response of Single Shear Cold-Formed Steel-to-Steel and Sheathing-to-Steel Connections
+    authors:
+      - family-names: Tao
+        given-names: F.
+      - family-names: Chatterjee
+        given-names: A.
+      - family-names: Cole
+        given-names: R.
+      - family-names: Moen
+        given-names: C.D.
+    institution:
+      name: Virginia Tech
+    number: CE/VPI-ST-16/01
+    year: 2016
+  - type: report
+    title: "Test Report: Cyclic Performance of Steel Sheet Connections for CFS Steel Sheet Shear Walls"
+    authors:
+      - family-names: Zhang
+        given-names: Z.
+      - family-names: Schafer
+        given-names: B.W.
+    institution:
+      name: Cold-Formed Steel Research Consortium
+    number: CFSRC R-2020-06
+    year: 2020

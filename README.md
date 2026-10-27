@@ -1,67 +1,80 @@
-# FastenerConnectionData
+# Fastener Connection Test Database
 
-This repository contains fastener test data for cold-formed steel connections.
+Load-deformation test data for fastened connections to cold-formed steel. The tests come from multiple research programs and are converted to one shared, open format (CSV).
 
-For every test specimen, there is a JSON file with the following data structure:
+Each test is a single-shear connection: screws or power-actuated fasteners (PAFs) through steel, OSB, plywood, or gypsum, loaded monotonically or cyclically. Every specimen has its full force-displacement curve, plus the fastener and ply properties needed to model it. The data is meant for calibrating connection backbone and hysteresis models, for training and checking machine-learning predictors, and for comparing design equations against tests.
 
-```julia
+**612 tests from 3 research programs so far, and the database grows with contributions. If you have fastener connection test data, see [Contribute your data](#contribute-your-data).**
 
-struct Source
-    authors::Array{String}
-    date::Date
-    title::String
-    bibtex::String
-    units::Array{String}
-    nominal_data::Vector{String}
-    notes::String
-end
+## Datasets
 
-struct Fastener
-    type::Vector{String}
-    details::Vector{Dict}
-end
+| Dataset | Connections | Fasteners | Tests | Source |
+|---|---|---|---|---|
+| [peterman-2014](datasets/peterman-2014/) | OSB- and gypsum-to-steel stud | #6, #8 screws | 48 | [Peterman, Nakata & Schafer (2014)](https://www.sciencedirect.com/science/article/abs/pii/S0143974X14001618) |
+| [tao-2016](datasets/tao-2016/) | Steel-to-steel; OSB-, plywood-, and gypsum-to-steel | #6–#12 screws | 408 | [Tao, Chatterjee, Cole & Moen (2016)](https://www.researchgate.net/publication/333671326) |
+| [zhang-2020](datasets/zhang-2020/) | Steel sheet-to-steel (2- and 3-ply) | #8–#12 screws, PAFs | 156 | [Zhang & Schafer (2020)](https://doi.org/10.1061/(ASCE)ST.1943-541X.0003233) |
 
-struct Ply
-    type::Vector{String}
-    thickness::Array{Float64}
-    elastic_modulus::Array{Any}
-    yield_stress::Array{Any}
-    ultimate_stress::Array{Any}
-end
+Each dataset folder has its own README (test program, specimen naming, known issues), its own `dataset.yaml` (authors, citation, license), and the original files in `raw/`.
 
-struct Test
-    name::String
-    loading::String
-    force::Array{Float64}
-    displacement::Array{Float64}
-end
+## Using the data
 
-struct Specimen
-    source::Array{Source}
-    fastener::Fastener
-    ply::Ply
-    test::Test
-end
+Every dataset has the same files in `processed/`. All values are in mm, N, and MPa. The columns are defined in [SCHEMA.md](SCHEMA.md).
 
+| File | Contents |
+|---|---|
+| `specimens.csv` | One row per test: loading, fastener type, size, and geometry |
+| `plies.csv` | One row per ply: material, thickness, and steel or sheathing properties |
+| `curves/<specimen_id>.csv` | The force-displacement curve for one test |
+
+```python
+import pandas as pd
+
+ds = "datasets/tao-2016/processed"
+specimens = pd.read_csv(f"{ds}/specimens.csv")
+plies = pd.read_csv(f"{ds}/plies.csv")
+
+# Monotonic #10 screw steel-to-steel tests, with the peak load of each
+mono = specimens.query("loading == 'monotonic' and fastener_size == '#10'")
+for sid in mono["specimen_id"]:
+    curve = pd.read_csv(f"{ds}/curves/{sid}.csv")
+    print(sid, curve["force_n"].max())
 ```
 
-## Add data
+To get every dataset in one table, run `python tools/build_combined.py`. It writes `combined/specimens.parquet`, `combined/plies.parquet`, and `combined/curves.parquet` (every curve stacked, about 7 million rows).
 
-Feel free to open an [issue](https://github.com/runtosolve/FastenerConnectionData/issues) and we will work with you to add your data!
+## Contribute your data
 
-## Data sources
+Connection tests are expensive. Most of them end up as a figure in a paper or as a spreadsheet on one lab's drive. Pooled, they are worth much more: models calibrated on several labs' tests, design equations checked against hundreds of tests instead of dozens, and fewer repeated tests. Contributions of any size are welcome, from a whole test program to a single series.
 
-Test results from **bold** references below are available now.   Results from other references are coming soon.  Current total is 552 tests.
+**Useful data includes:**
 
-* Derveni, Fani, et al. (2021). High-fidelity finite element modeling of wood-sheathed cold-formed steel shear walls. Journal of Structural Engineering 147.2.
-* **[Peterman, K. D., N. Nakata, and B. W. Schafer (2014). Hysteretic characterization of cold-formed steel stud-to-sheathing connections. Journal of Constructional Steel Research 101: 254-264.](https://www.sciencedirect.com/science/article/abs/pii/S0143974X14001618)**
-* **[Tao, F., Cole, R., Moen, C.D. (2016). Monotonic and cyclic response of single shear cold-formed steel-to-steel and steel-to sheathed connections. Virginia Tech Research Report No. CE/VPI-ST-16/01, American Iron and Steel Institute, Final Report, Washington, D.C.](https://www.researchgate.net/profile/Aritra-Chatterjee-3/publication/333671326_Monotonic_and_Cyclic_Response_of_Single_Shear_Cold-Formed_Steel-to-Steel_and_Sheathing-to-Steel_Connections/links/5cfd974ea6fdccd1308f7ec4/Monotonic-and-Cyclic-Response-of-Single-Shear-Cold-Formed-Steel-to-Steel-and-Sheathing-to-Steel-Connections.pdf)**
-* Torabian, S., and B. W. Schafer (2021). Cyclic experiments on sidelap and structural connectors in steel deck diaphragms. Journal of Structural Engineering 147.4.
-* **[Zhang, Z., Singh, A., Derveni, F., Torabian, S., Peterman, K. D., Hutchinson, T. C., & Schafer, B. W. (2022). Cyclic experiments on steel sheet connections for standard CFS framed steel sheet sheathed shear walls. Journal of Structural Engineering, 148(2), 04021261.11:33](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ST.1943-541X.0003233)**
-* **[Zhang, Z., Singh, A., Derveni, F., Torabian, S., Peterman, K. D., Hutchinson, T. C., & Schafer, B. W. (2021). Cyclic experiments on isolated steel sheet connections for CFS framed steel sheet sheathed shear walls with new configurations. Engineering Structures, 244, 112805.](https://www.sciencedirect.com/science/article/abs/pii/S014102962100955X)**
+- Screw, PAF, nail, bolt, rivet, or other fastener tests on cold-formed steel
+- Steel-to-steel, or sheathing-to-steel with any sheathing
+- Monotonic or cyclic loading
+- Older tests that were never published as data, and new tests from current projects
 
+**What you need:** a force-displacement record for each test, plus whatever fastener and ply information you have (thicknesses, material properties, fastener size). Missing fields are fine: leave them blank.
 
+**What you get:** your dataset keeps your name, your citation, and the license you choose. Everyone who uses it is asked to cite your original work, and your dataset gets a folder and a row in the table above.
 
+**How to contribute:**
 
+- **Not comfortable with Git, or your data is in raw spreadsheets?** [Open an issue](https://github.com/EngineerWithData/FastenerConnectionTests/issues/new?template=new-dataset.md) describing what you have. We'll help convert it.
+- **Comfortable with Python and Git?** Follow [CONTRIBUTING.md](CONTRIBUTING.md). In short: add a folder under `datasets/` with your raw files, a `convert.py` script, a README, and a `dataset.yaml`. Then run `python tools/validate.py` and open a pull request.
 
+Corrections to existing datasets are just as welcome. If you find a problem, open an issue or a pull request.
 
+### Wanted
+
+These programs have published fastener tests that aren't in the database yet. If you're an author, we'd especially like to hear from you:
+
+- Derveni, F., et al. (2021). High-fidelity finite element modeling of wood-sheathed cold-formed steel shear walls. *Journal of Structural Engineering* 147(2).
+- Torabian, S., and Schafer, B.W. (2021). Cyclic experiments on sidelap and structural connectors in steel deck diaphragms. *Journal of Structural Engineering* 147(4).
+
+## Citing
+
+Cite the original source of each dataset you use. Its `dataset.yaml` has the citation. To cite the database itself, see [CITATION.cff](CITATION.cff).
+
+## License
+
+Each dataset keeps the license chosen by its contributors (see its `dataset.yaml`). The code in `tools/` and `schema/` is MIT-licensed (see [LICENSE](LICENSE)).

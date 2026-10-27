@@ -1,0 +1,22 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Regenerate processed/ from raw/
+        run: |
+          for f in datasets/*/convert.py; do python "$f"; done
+      - name: Committed processed/ files must match regenerated output
+        run: git diff --exit-code -- datasets/
+      - run: python tools/validate.py

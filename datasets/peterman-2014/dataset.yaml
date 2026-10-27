@@ -1,0 +1,27 @@
+id: peterman-2014
+title: Hysteretic tests of cold-formed steel stud-to-sheathing screw connections
+authors:
+  - name: K.D. Peterman
+    affiliation: Johns Hopkins University
+  - name: N. Nakata
+    affiliation: Johns Hopkins University
+  - name: B.W. Schafer
+    affiliation: Johns Hopkins University
+year: 2014
+citation: >-
+  Peterman, K.D., Nakata, N., Schafer, B.W. (2014). Hysteretic characterization of
+  cold-formed steel stud-to-sheathing connections. Journal of Constructional Steel
+  Research 101: 254-264. https://www.sciencedirect.com/science/article/abs/pii/S0143974X14001618
+related:
+  - >-
+    Peterman, K.D., Schafer, B.W. (2013). Hysteretic shear response of fasteners connecting
+    sheathing to cold-formed steel studs. CFS-NEES Research Report RR04. (Source of the
+    steel material properties, Table 2.)
+source_url: https://www.sciencedirect.com/science/article/abs/pii/S0143974X14001618
+license: To be confirmed with the authors
+contact: B.W. Schafer, Johns Hopkins University
+original_units: {length: in, force: lbf, stress: psi}
+original_format: JSON, one file per specimen (this repository's v0 format)
+specimens:
+  osb: 24
+  gypsum: 24

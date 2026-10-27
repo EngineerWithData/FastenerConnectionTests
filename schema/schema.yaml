@@ -1,0 +1,56 @@
+# Shared schema for every dataset in datasets/*/processed/.
+# tools/validate.py enforces this file; SCHEMA.md explains it in prose.
+# Change it only by pull request, and bump `version` when you do.
+
+version: 1.0.0
+
+vocabularies:
+  loading: [monotonic, cyclic]
+  fastener_type: [screw, paf, nail, bolt, rivet, other]
+  head_shape: [hex, flat, pan, bugle, wafer, truss, other]
+  material: [steel, osb, plywood, gypsum, other]
+
+tables:
+  specimens:
+    file: specimens.csv
+    primary_key: [dataset_id, specimen_id]
+    columns:
+      dataset_id:           {type: string, required: true}
+      specimen_id:          {type: string, required: true}
+      loading:              {type: string, required: true, vocabulary: loading}
+      fastener_type:        {type: string, required: true, vocabulary: fastener_type}
+      fastener_count:       {type: integer, required: true, min: 1}
+      fastener_size:        {type: string, required: false}
+      fastener_diameter_mm: {type: number, required: false, min: 0}
+      fastener_length_mm:   {type: number, required: false, min: 0}
+      head_diameter_mm:     {type: number, required: false, min: 0}
+      head_shape:           {type: string, required: false, vocabulary: head_shape}
+      coating:              {type: string, required: false}
+      fastener_product:     {type: string, required: false}
+      ply_count:            {type: integer, required: true, min: 1}
+      point_count:          {type: integer, required: true, min: 1}
+      source_file:          {type: string, required: true}
+      notes:                {type: string, required: false}
+
+  plies:
+    file: plies.csv
+    primary_key: [dataset_id, specimen_id, ply]
+    foreign_key: {columns: [dataset_id, specimen_id], references: specimens}
+    columns:
+      dataset_id:          {type: string, required: true}
+      specimen_id:         {type: string, required: true}
+      ply:                 {type: integer, required: true, min: 1}
+      material:            {type: string, required: true, vocabulary: material}
+      thickness_mm:        {type: number, required: true, min: 0}
+      elastic_modulus_mpa: {type: number, required: false, min: 0}
+      yield_stress_mpa:    {type: number, required: false, min: 0}
+      ultimate_stress_mpa: {type: number, required: false, min: 0}
+      nominal:             {type: string, required: false}
+
+  # One file per specimen: processed/curves/<specimen_id>.csv
+  curves:
+    file: curves/{specimen_id}.csv
+    per_specimen: true
+    columns:
+      displacement_mm: {type: number, required: true}
+      force_n:         {type: number, required: true}
