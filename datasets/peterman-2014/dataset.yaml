@@ -18,7 +18,7 @@ related:
     sheathing to cold-formed steel studs. CFS-NEES Research Report RR04. (Source of the
     steel material properties, Table 2.)
 source_url: https://www.sciencedirect.com/science/article/abs/pii/S0143974X14001618
-license: To be confirmed with the authors
+license: CC-BY-4.0
 contact: B.W. Schafer, Johns Hopkins University
 original_units: {length: in, force: lbf, stress: psi}
 original_format: JSON, one file per specimen (this repository's v0 format)
