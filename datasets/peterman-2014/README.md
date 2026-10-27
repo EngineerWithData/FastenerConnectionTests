@@ -13,7 +13,7 @@ The steel material properties come from Table 2 of Peterman, K.D., Schafer, B.W.
 | OSB | 7/16 in (11.2 mm) | #8 Simpson Strong-Tie Quik Drive | 33, 54, 97 mil | 24 |
 | Gypsum | 1/2 in (12.7 mm) | #6 Simpson Strong-Tie Quik Drive | 33, 54, 97 mil | 24 |
 
-Each specimen has **8 screws** (`fastener_count` = 8).
+Each specimen has **8 screws** (`fastener_count` = 8). **Force is the total on all 8 screws**, not the force per screw. Divide `force_n` by 8 for an average per-screw value.
 
 ## Specimen IDs
 
@@ -37,7 +37,6 @@ Converted by `tools/json_format.py` from the JSON files in `raw/`, which are unc
 
 ## Known issues and open questions
 
-- **Force per fastener or total:** the raw files don't say whether force is the total on the 8-screw specimen or per screw. Peak loads (about 1,500–1,800 lbf in `c54o6_1`) suggest the total. Check the paper before using per-fastener values.
 - **Meaning of `6` / `12` in the IDs:** not recorded in the raw files. See the paper.
 - **Unequal replicates:** `c54o12` has one test, and `m97o12` has three.
 
