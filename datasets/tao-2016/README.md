@@ -21,7 +21,7 @@ Most configurations were tested 3 times monotonically and 3 times cyclically (20
 
 | Part | Meaning |
 |---|---|
-| `43` | Ply 1 steel designation thickness, mils |
+| `43` | Ply 1 (against the screw head) steel designation thickness, mils |
 | `54` | Ply 2 steel designation thickness, mils |
 | `12` | Screw size (#12) |
 | `M` / `C` | Monotonic / cyclic |
@@ -37,7 +37,6 @@ Converted by `tools/json_format.py` from the JSON files in `raw/`, which are unc
 
 ## Known issues and open questions
 
-- **Ply order for steel-to-steel:** the IDs and the ply lists in `raw/` give the same order. It's assumed that the first ply is under the screw head, as in the sheathing tests, but this hasn't been checked against the report.
 - **`nominal_data` missing in some files:** 87 plywood and OSB files (P133–P397, O297, O397) have no `nominal_data` field. All files use the same nominal elastic moduli, so `convert.py` flags `elastic_modulus` as nominal everywhere.
 - **Thickness varies within a series:** a few series have two thickness values for the same nominal ply, e.g. 1.43 and 1.44 mm in `2654-*`, and 0.86 and 0.90 mm in `O133-*` and `O233-*`. These are kept as stored.
 - **Date:** the raw files give the source date as 2017-01-01. The report number (CE/VPI-ST-16/01) is 2016, which is used for the dataset ID.
